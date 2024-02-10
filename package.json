@@ -11,6 +11,7 @@
     "start": "next start"
   },
   "devDependencies": {
+    "@types/node": "^20.11.17",
     "@types/react": "18.2.55",
     "@types/react-dom": "^18.2.19",
     "typescript": "^5.3.3"
